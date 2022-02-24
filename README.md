@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I’ve been coding software for +15 years. Mostly web and ecommerce development. Interested in crypto and web3. Full-time and forever learner. 
+
+### You can find me at
+
+- Email: [federivo@gmail.com](mailto:federivo@gmail.com)
+- Twitter: [@federivo](https://twitter.com/federivo)
+- Linkedin: [federicorivollier](https://www.linkedin.com/in/federicorivollier/)
+
 <!--
 **federivo/federivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
